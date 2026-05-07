@@ -120,7 +120,7 @@ I am currently focused on:
 # Connect With Me
 
 * GitHub: [https://github.com/jorgejacobb](https://github.com/jorgejacobb)
-* LinkedIn: [https://www.linkedin.com/in/jorgejacobb/]
+* LinkedIn: https://www.linkedin.com/in/jorgejacobb
 
 ---
 
