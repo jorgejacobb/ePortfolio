@@ -304,13 +304,14 @@ This ePortfolio showcases the knowledge, skills, and growth developed throughout
 
 <img src="Picture7.png" width="900">
 
-<img src="Picture8.png" width="900">
 
 ---
 
 ## Enhancement 3 – Databases
 
 ### MongoDB Schema and API Integration
+
+<img src="Picture8.png" width="900">
 
 <img src="Picture9.png" width="900">
 
