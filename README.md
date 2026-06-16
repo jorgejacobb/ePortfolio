@@ -283,13 +283,14 @@ This ePortfolio showcases the knowledge, skills, and growth developed throughout
 
 <img src="Picture2.png" width="900">
 
+<img src="Picture3.png" width="900">
+
 ---
 
 ## Enhancement 2 – Algorithms and Data Structures
 
 ### Solar Ranking System
 
-<img src="Picture3.png" width="900">
 
 <img src="Picture4.png" width="900">
 
