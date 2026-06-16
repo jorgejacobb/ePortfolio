@@ -273,3 +273,47 @@ This ePortfolio showcases the knowledge, skills, and growth developed throughout
 
 ---
 
+# Project Screenshots
+
+## Enhancement 1 – Software Engineering and Design
+
+### EcoGrid Dashboard and Interactive Mapping
+
+<img src="Picture1.png" width="900">
+
+<img src="Picture2.png" width="900">
+
+---
+
+## Enhancement 2 – Algorithms and Data Structures
+
+### Solar Ranking System
+
+<img src="Picture3.png" width="900">
+
+<img src="Picture4.png" width="900">
+
+<img src="Picture5.png" width="900">
+
+---
+
+### Wind Ranking System
+
+<img src="Picture6.png" width="900">
+
+<img src="Picture7.png" width="900">
+
+<img src="Picture8.png" width="900">
+
+---
+
+## Enhancement 3 – Databases
+
+### MongoDB Schema and API Integration
+
+<img src="Picture9.png" width="900">
+
+<img src="Picture10.png" width="900">
+
+---
+
